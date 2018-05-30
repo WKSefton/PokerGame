@@ -1,0 +1,6 @@
+C:\Users\willi\source\repos\obj\x86\Debug\PokerGame.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\obj\x86\Debug\PokerGame.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\bin\Debug\ConsoleApplication.exe
+C:\Users\willi\source\repos\bin\Debug\ConsoleApplication.pdb
+C:\Users\willi\source\repos\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\willi\source\repos\obj\x86\Debug\ConsoleApplication.pdb
